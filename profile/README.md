@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # MyPDFX — أدوات PDF عربية أولًا
 
 **[www.mypdfx.com](https://www.mypdfx.com)**
@@ -11,6 +13,8 @@
 - [كل الأدوات](https://www.mypdfx.com/tools)
 
 10 صفحات OCR مجانية كل شهر بحساب مجاني (تسجيل بضغطة عبر Google).
+
+</div>
 
 ---
 
